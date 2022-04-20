@@ -1,0 +1,157 @@
+*
+{
+    margin: 0;
+    padding: 0;
+
+}
+body
+{
+    background-image: url(/img/sigaa.jpeg);
+    background-size: 100%;
+  
+}
+
+.menu
+{
+    background-color:#141F49;
+    width: 80vw;
+    height: 65px;
+    margin-left: 10%;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    position: absolute;
+    z-index: 5;
+    
+
+ 
+}
+
+.menu ul
+{
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    list-style: none;
+    
+}
+
+.menu ul a
+{
+    padding: 45px;
+    display: block;
+   /* text-decoration:overline;*/
+    color: white;
+    font-size: 19px;
+    position: relative;
+    bottom: 18px;
+   
+}
+
+.fundo_form
+{
+    background-color:#F1F1F1;
+    width: 50%;
+    height: 90vh;
+    text-align: center;
+    padding-top: 10%;
+    position: absolute;
+    opacity: 85%;
+    bottom: 1px;
+    
+   
+    
+}
+
+label
+{
+    display: flex;
+    padding: 10px;
+    justify-content: center;
+    position: relative;
+    
+    
+  
+    
+}
+input
+{
+    font-size: 40px;
+    background-color:#F1F1F1;
+    border-bottom: solid #141F49  3px;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+}
+input::placeholder
+{
+    color: #141F49;
+    font-size: 20px;
+}
+.form 
+{
+    position: relative;
+    top: 20%;
+    right: 5%;
+}
+
+.titulo
+{
+    position: relative;
+    top: 5%;
+    right: 27%;
+    font-size: 50px;
+    color: #141F49;
+}
+h4
+{
+    position: relative;
+    top: 10%;
+    right: 29%;
+    font-size: 20px;
+    color:#11386B ;
+}
+
+.entrar
+{
+    background-color: #141F49;
+    color: white;
+    width: 500px;
+    height: 40px;
+    border-radius: 50px;
+    border-color: #141F49;
+    font-size: 25px;
+    border: none;
+}
+.cadastrar
+{
+    background-color:#11386B;
+    border:none;
+    color: white;
+    width: 150px;
+    height: 40px;
+    border-radius: 50px;
+    position: relative;
+    right: 180px;
+    font-size: 20px;
+
+}
+.ajuda
+{
+    color: #11386B;
+    float: right;
+    position: relative;
+    bottom: 35px;
+    right: 140px;
+    font-size: 19px;
+
+
+}
+.if_versao
+{
+    position: relative;
+    top: 50px;
+    right: 15%;
+    color: #11386B;
+    font-size: 15px;
+}
