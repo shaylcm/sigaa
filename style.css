@@ -46,6 +46,7 @@ body
     font-size: 19px;
     position: relative;
     bottom: 18px;
+    text-decoration: none;
    
 }
 
@@ -155,4 +156,17 @@ h4
     right: 15%;
     color: #11386B;
     font-size: 15px;
+}
+
+section
+{
+    width: 100%;
+}
+
+
+.links a:hover
+{
+    text-decoration: overline;
+
+
 }
