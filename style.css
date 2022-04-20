@@ -89,6 +89,9 @@ input::placeholder
 {
     color: #141F49;
     font-size: 20px;
+    position: relative;
+    left: 40px;
+    
 }
 .form 
 {
@@ -170,3 +173,30 @@ section
 
 
 }
+.links a:active
+{
+    text-decoration: overline;
+}
+#linksigaa
+{
+    text-decoration: overline;
+}
+#icone_usuario
+{
+    color:#141F49;
+    font-size: 20px;
+    position: relative;
+    top: 20px;
+    left: 20px;;
+    
+}
+#icone_senha
+{
+    color:#141F49;
+    font-size: 20px;
+    position: relative;
+    top: 20px;
+    left: 20px;;
+    
+}
+
