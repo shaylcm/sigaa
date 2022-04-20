@@ -6,7 +6,7 @@
 }
 body
 {
-    background-image: url(sigaa.jpeg);
+    background-image: url("sigaa.jpeg");
     background-size: 100%;
   
 }
