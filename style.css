@@ -58,7 +58,7 @@ body
     text-align: center;
     padding-top: 10%;
     position: absolute;
-    opacity: 85%;
+    opacity: 88%;
     bottom: 1px;
     
    
@@ -126,6 +126,8 @@ h4
     border-radius: 50px;
     border-color: #141F49;
     font-size: 25px;
+    position: relative;
+    top: 10px;;
     border: none;
 }
 .cadastrar
