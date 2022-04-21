@@ -4,12 +4,14 @@
     padding: 0;
 
 }
-body
+.bodysigaa
 {
     background-image: url("sigaa.jpeg");
     background-size: 100%;
   
 }
+
+/*acrescentar o background das outras paginas*/
 
 .menu
 {
