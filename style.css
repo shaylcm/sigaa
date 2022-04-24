@@ -6,7 +6,7 @@
 }
 .bodysigaa
 {
-    background-image: url("sigaa.jpeg");
+    background-image: url("/img/sigaa.jpeg");
     background-size: 100%;
   
 }
@@ -176,6 +176,8 @@ section
 .links a:hover
 {
     text-decoration: overline;
+    position:relative;
+    transform: translate(-3%,-3%) scale(1.2);
 
 
 }
