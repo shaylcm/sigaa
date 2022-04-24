@@ -16,7 +16,27 @@
     background-size: 100%;
 }
 
-/*acrescentar o background das outras paginas*/
+.bodysigrh
+{
+    background-image: url(img/sigrh.jpeg);
+    background-size: 100%;
+}
+.bodysigpp
+{
+    background-image: url(img/sigpp.jpeg);
+    background-size: 100%;
+}
+.bodysiged
+{
+    background-image: url(img/siged.jpeg);
+    background-size: 100%;
+}
+.bodysigadmin
+{
+    background-image: url(img/Sigadmin.jpeg);
+    background-size: 100%;
+}
+
 
 .menu
 {
